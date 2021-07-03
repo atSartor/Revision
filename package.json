@@ -1,0 +1,15 @@
+{
+  "name": "revision",
+  "version": "0.0.1",
+  "description": "Ryu's Extensible Visual Novel Extractor is a tool that automates the process of extracting audio from visual novels and adding them to a specified Anki field. As the name implies, the program is extensible, and is supported by its plugins. If your VN isn't supported, you can make a plugin for it yourself.",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "author": "Ryu2021",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^13.1.5"
+  }
+}
